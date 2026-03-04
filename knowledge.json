@@ -46,5 +46,17 @@
       "annual_cost_savings_usd",
       "annual_hours_saved"
     ]
-  }
+  },
+  "expertise_pages": [
+    "/expertise/strategy.html",
+    "/expertise/consulting.html",
+    "/expertise/ai-deployment.html",
+    "/expertise/platform-adoption.html",
+    "/expertise/revenue-integrity.html",
+    "/expertise/reconciliation-automation.html",
+    "/expertise/enterprise-workflows.html",
+    "/expertise/payments-infrastructure.html",
+    "/expertise/solutions-architecture.html",
+    "/expertise/data-systems.html"
+  ]
 }

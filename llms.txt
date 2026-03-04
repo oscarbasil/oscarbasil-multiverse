@@ -10,3 +10,13 @@ Sitemap: https://oscarbasil.com/sitemap.xml
 Home: https://oscarbasil.com/
 Expertise Index: https://oscarbasil.com/expertise/
 Project Library: https://oscarbasil.com/projects/
+- https://oscarbasil.com/expertise/strategy.html
+- https://oscarbasil.com/expertise/consulting.html
+- https://oscarbasil.com/expertise/ai-deployment.html
+- https://oscarbasil.com/expertise/platform-adoption.html
+- https://oscarbasil.com/expertise/revenue-integrity.html
+- https://oscarbasil.com/expertise/reconciliation-automation.html
+- https://oscarbasil.com/expertise/enterprise-workflows.html
+- https://oscarbasil.com/expertise/payments-infrastructure.html
+- https://oscarbasil.com/expertise/solutions-architecture.html
+- https://oscarbasil.com/expertise/data-systems.html

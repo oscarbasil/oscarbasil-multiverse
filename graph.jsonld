@@ -129,5 +129,17 @@
       "description": "Cross-industry consulting delivery: diagnosis, requirements, tradeoffs, delivery translation, and outcomes.",
       "inDefinedTermSet": "https://oscarbasil.com/expertise#terms"
     }
+  ],
+  "knowsAbout": [
+    "ai deployment",
+    "consulting",
+    "data systems",
+    "enterprise workflows",
+    "payments infrastructure",
+    "platform adoption",
+    "reconciliation automation",
+    "revenue integrity",
+    "solutions architecture",
+    "strategy"
   ]
 }
