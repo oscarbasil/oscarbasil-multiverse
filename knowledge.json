@@ -1,0 +1,50 @@
+{
+  "version": "2026-03-04",
+  "entity": {
+    "name": "Oscar Basil",
+    "canonical": "https://oscarbasil.com",
+    "scale_signals": {
+      "tpv_managed_usd_billion": 3.5,
+      "tpv_platform_exposure_usd_billion": 8.25,
+      "tpv_total_exposure_usd_billion": 11.75
+    },
+    "top_domains": [
+      "AI Adoption and Deployment",
+      "AI Customer Success and Value Realization",
+      "AI Transformation and Business Consulting",
+      "Platform Adoption and Enablement",
+      "Revenue Integrity and Financial Controls",
+      "Reconciliation Automation",
+      "Enterprise Workflow Systems",
+      "Reliability and Resilience",
+      "Data and Decision Systems",
+      "Technology Strategy",
+      "Technology Consulting"
+    ]
+  },
+  "endpoints": {
+    "graph_jsonld": "/graph.jsonld",
+    "knowledge_json": "/knowledge.json",
+    "projects_json": "/data/projects.json",
+    "sitemap_xml": "/sitemap.xml",
+    "robots_txt": "/robots.txt",
+    "llms_txt": "/llms.txt"
+  },
+  "projects": {
+    "count": 55,
+    "fields": [
+      "project_id",
+      "project_name",
+      "slug",
+      "organization",
+      "domain",
+      "category",
+      "archetype",
+      "execution_type",
+      "primary_role",
+      "impact_risk_avoided",
+      "annual_cost_savings_usd",
+      "annual_hours_saved"
+    ]
+  }
+}

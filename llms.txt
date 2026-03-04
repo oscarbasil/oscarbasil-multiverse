@@ -1,0 +1,12 @@
+# llms.txt for https://oscarbasil.com
+User-agent: *
+Allow: /
+
+Graph-JSONLD: https://oscarbasil.com/graph.jsonld
+Knowledge-JSON: https://oscarbasil.com/knowledge.json
+Projects-JSON: https://oscarbasil.com/data/projects.json
+Sitemap: https://oscarbasil.com/sitemap.xml
+
+Home: https://oscarbasil.com/
+Expertise Index: https://oscarbasil.com/expertise/
+Project Library: https://oscarbasil.com/projects/
